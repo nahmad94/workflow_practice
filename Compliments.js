@@ -1,4 +1,4 @@
-let data = [
+const compliments = [
     "Good effort!",
     "What a fine sweater!",
     "I appreciate all of your opinions.",
@@ -37,4 +37,6 @@ let data = [
     "You deserve a compliment!",
     "Hello, good looking."
   ];
+
   
+
